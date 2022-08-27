@@ -1,5 +1,5 @@
 # Grupal_Entrega_2
 
 Abigail Ormeño 
-Juan Llopi
+Juan Llopis
 Martin Machado
